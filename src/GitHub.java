@@ -26,6 +26,14 @@ public static void main(String[] args) {
 	sd
 	fs
 String ajf;
+	f
+	d
+	fdx
+	f
+	df
+	df
+	
+	df
 	
 }
 }
