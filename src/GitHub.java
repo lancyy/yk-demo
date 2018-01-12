@@ -18,17 +18,13 @@ public static void main(String[] args) {
 //	
 //	
 	
-	ewwerqw
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	ewwerqwf
+	s
+	fs
+	fdsdfsfssdfs
+	fsdfsdfsd
+	sd
+	fs
 String ajf;
 	
 }
